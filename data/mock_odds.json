@@ -1,0 +1,29 @@
+[
+  {
+    "match": "Flamengo vs Fluminense",
+    "date": "2023-11-01",
+    "odds": {
+      "home": 1.85,
+      "draw": 3.2,
+      "away": 4.1
+    }
+  },
+  {
+    "match": "Palmeiras vs S\u00e3o Paulo",
+    "date": "2023-11-01",
+    "odds": {
+      "home": 2.0,
+      "draw": 3.1,
+      "away": 3.8
+    }
+  },
+  {
+    "match": "Barcelona vs Real Madrid",
+    "date": "2023-11-02",
+    "odds": {
+      "home": 2.5,
+      "draw": 3.4,
+      "away": 2.7
+    }
+  }
+]
